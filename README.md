@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Computer Science Engineering student<br> 💻 Interested in Software Development & Frontend Engineering<br> 🎨 UI/UX Designer with hands-on Figma experience<br> 🚀 Actively seeking Internship & Entry-level Job opportunities<br> 🌱 Currently strengthening DSA, React.js, and real-world projects<br>
+🎓 Computer Science Engineering student<br> 💻 Interested in Software Development & Frontend Engineering<br> 🎨 UI/UX Designer with hands-on Figma experience<br> 🚀 Actively seeking Internship & Entry-level Job opportunities<br> 🌱 Currently strengthening DSA, React.js, and real-world projects<br>
 
 
 ## 🌐 Socials:
